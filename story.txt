@@ -1,2 +1,9 @@
+
 My teammates hate me they said meet at memorial lib but i went to college even though i said i was right then i couldn't figure out this repo stuff good news is idrc
+I should be good now.<<<<<<< HEAD
 I feel a lot better now. My teammates definetely don't hate me at much so I should be good.
+=======
+Your teammates walked all the way to college from memorial but it wasn't too big of a deal even though they walked all over the 3rd floor of memorial lol it was a nice excersise. 
+
+There was a man in the distant horizon riding a horse. He appeared to be waiting for something, or rather someone. The setting sun made it hard to pnpoint any fine details on him as all one could see as a tall, dark silhouette.
+>>>>>>> af5785a612581dccc30d3881d93eaa1c8e5755cf
